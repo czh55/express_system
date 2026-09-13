@@ -1,0 +1,422 @@
+[
+  {
+    "id": "hb-19",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "career",
+    "title": "猜问题背后的目的",
+    "badge": "猜问题背后的目的",
+    "quote": "业余爱好题，其实在问性格匹配。",
+    "how": "心里先标「匹配 / 抗压 / 逻辑」再答；诚实暴露性格，不适配就拜拜，别迎合 JD 编人设。",
+    "dont": "",
+    "script": "",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "看我72变 · 15 个 offer 面经",
+        "href": "https://czh55.github.io/audio-workshop/interview_15_offers_ep17-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "workplace"
+    ]
+  },
+  {
+    "id": "hb-20",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "career",
+    "title": "自我介绍设好奇点",
+    "badge": "自我介绍设好奇点",
+    "quote": "简历讲故事 + 第一人称数据。",
+    "how": "留下可追问的钩子；用「我负责 / 我推动」+ 可验证结果，少用空洞形容词。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "看我72变",
+        "href": "https://czh55.github.io/audio-workshop/interview_15_offers_ep17-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "workplace"
+    ]
+  },
+  {
+    "id": "hb-21",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "career",
+    "title": "关键词积木简历",
+    "badge": "关键词积木简历",
+    "quote": "一段经历可映射多方向：拆解 → 匹配 JD → 快速迭代。",
+    "how": "",
+    "dont": "",
+    "script": "只记新问题 + 自己答得差的问题；追问「面试官为什么问这个？希望听到什么？」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "Buidler Talk · 求职经验谈",
+        "href": "https://czh55.github.io/audio-workshop/product_qiuzhi_resume_talk-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "workplace"
+    ]
+  },
+  {
+    "id": "hb-22",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "career",
+    "title": "把面试当学习交流",
+    "badge": "把面试当学习交流",
+    "quote": "「如此可教」比完美无错更加分。",
+    "how": "面后问自己学到什么；反向观察加一风格——合不来比能力不足更痛苦。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "Buidler Talk",
+        "href": "https://czh55.github.io/audio-workshop/product_qiuzhi_resume_talk-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "workplace"
+    ]
+  },
+  {
+    "id": "hb-23",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "career",
+    "title": "压力面试：说出一二三",
+    "badge": "压力面试：说出一二三",
+    "quote": "陌生题测的是临场框架，不是标准答案。",
+    "how": "",
+    "dont": "",
+    "script": "结论先行 → 两点理由 → 一个例子 → 收束。先保证「能说清结构」，再追求精彩。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "看我72变 · 即兴演讲/游戏面",
+        "href": "https://czh55.github.io/audio-workshop/interview_15_offers_ep17-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "workplace"
+    ]
+  },
+  {
+    "id": "vn-self-intro-story-framework",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "面试",
+    "title": "自我介绍别复述简历｜四步讲好我是谁",
+    "badge": "面试",
+    "quote": "适用：所有需要做自我介绍的面试场景。",
+    "how": "适用：所有需要做自我介绍的面试场景。；上限：不适用于 30 秒极短自我介绍，需压缩为三句话版本。；反例：别在自我介绍里讲负面信息或与岗位无关的长篇故事。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：自我介绍的最大误区是复述简历——面试官看简历就够了，何必让你再背一遍。面试官要自我介绍的真正目的是热身与建立第一印象，所以它必须在短时间内抓住注意力。正解是把自我介绍当「我是谁」的故事来讲：分阶段、讲产出、总结优势、说清诉求，四步让面试官眼前一亮。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "自我介绍别复述简历｜四步讲好我是谁",
+        "href": "https://czh55.github.io/video-notes/self-intro-story-framework-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "面试"
+    ]
+  },
+  {
+    "id": "vn-competency-interview-answer",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "面试",
+    "title": "被问凭什么胜任这份工作：四步回答法",
+    "badge": "面试",
+    "quote": "适用：常规面试中的胜任力问题、自我介绍环节的结论表述。",
+    "how": "适用：常规面试中的胜任力问题、自我介绍环节的结论表述。；上限：数据需要真实可背调，虚构业绩会在背调环节爆雷。；反例：应届生没有大额业绩时，可用项目贡献与学习成果替代。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：「你为什么觉得能胜任」是一道压力题，答不好直接影响面试结果和定级。回答要用四步结构形成闭环——先表明观点（我很匹配）、再说理由（经验方向对口）、补充充足的案例（用合同金额、营收、贡献占比等硬数据）、最后重申观点（一定能拿到好结果）。数据越具体，论证越可信。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "被问凭什么胜任这份工作：四步回答法",
+        "href": "https://czh55.github.io/video-notes/competency-interview-answer-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "面试"
+    ]
+  },
+  {
+    "id": "vn-interview-biggest-weakness",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "面试",
+    "title": "面试问最大缺点，别再答「过于追求完美」",
+    "badge": "面试",
+    "quote": "适用：行为面试中「最大缺点」类问题的回答。",
+    "how": "适用：行为面试中「最大缺点」类问题的回答。；上限：缺点若恰是岗位硬伤（如会计说自己粗心），要避开。；反例：不要编造完全无伤大雅的缺点，显得套路。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：「最大缺点是过于追求完美」看似滴水不漏，实则面试官反感——会被认为耍小聪明、不够真诚。这个问题的本质不是要知道你的缺点，而是想看你对自己有没有清晰客观的认识、能否有效控制。只要缺点不是岗位硬伤，如实回答：讲缺点、讲场景、讲控制，用「运营岗不会拒绝人」的示范展示真实、具体、有改进的结构化回答。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "面试问最大缺点，别再答「过于追求完美」",
+        "href": "https://czh55.github.io/video-notes/interview-biggest-weakness-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "面试"
+    ]
+  },
+  {
+    "id": "vn-interview-question-differentiation",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "面试",
+    "title": "面试反问「看碟下菜」，面试官抢着加分",
+    "badge": "面试",
+    "quote": "适用：多轮面试中反问环节的差异化准备。",
+    "how": "适用：多轮面试中反问环节的差异化准备。；上限：反问不能替代对岗位的真实兴趣与了解。；反例：不要为了问而问，套模板问题会被看穿。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：面试反问是必考题，有水平的关键是「看碟下菜」——初试官关注岗位本身，反问围绕策略、考核指标、空缺原因；复试官（部门负责人）关注业务与团队，反问要有高度、谈模式与协同；HR 关注组织与人才发展，反问围绕文化价值观、成长晋升与培训。问对了人，同一道题就是加分题。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "面试反问「看碟下菜」，面试官抢着加分",
+        "href": "https://czh55.github.io/video-notes/interview-question-differentiation-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "面试"
+    ]
+  },
+  {
+    "id": "vn-hr-interview-rules",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "面试",
+    "title": "HR面试的潜规则：配合把戏演好",
+    "badge": "面试",
+    "quote": "适用：HR 初面轮、常规行为面试问题的回答组织。",
+    "how": "适用：HR 初面轮、常规行为面试问题的回答组织。；上限：不适用于技术深度考核、背调与业务主管的技术追问。；反例：涉及诚信红线的问题（如学历造假、履历虚构）绝不能包装。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：HR 面试不是「筛选期」，而是「期待你过关」的配合演出。面试官知道你在包装，他要的只是包装得好听、符合规则；因此面试能力约等于「包装文字的语言艺术」，且这门手艺要靠平时写作演讲的刻意练习来喂。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "HR面试的潜规则：配合把戏演好",
+        "href": "https://czh55.github.io/video-notes/hr-interview-rules-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "面试"
+    ]
+  },
+  {
+    "id": "vn-salary-negotiation-five-steps",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "谈薪",
+    "title": "HR压价不要慌：弹性五步法反败为胜",
+    "badge": "谈薪",
+    "quote": "适用：offer 谈判中 HR 压价的应对。",
+    "how": "适用：offer 谈判中 HR 压价的应对。；上限：不适用于漫天要价，期望值要贴近市场与自身水平。；反例：捏造 offer 来压价有背调风险，不要虚构。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：90% 求职者都会遭遇 HR 压价，而 HR 的说辞（能力短板、薪资体系、空头支票、性价比竞争）几乎对所有求职者通吃，别轻易自我怀疑。应对的弹性五步法是：追问薪资结构对齐口径、拆穿定薪理由、坚定期望薪资并给理由、请 HR 申请（诚意+稳定+其他 offer）、最后折中为「期望薪资定在转正后、试用期不低于80%」。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "HR压价不要慌：弹性五步法反败为胜",
+        "href": "https://czh55.github.io/video-notes/salary-negotiation-five-steps-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "谈薪"
+    ]
+  },
+  {
+    "id": "vn-task-restate-confirm",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "向上管理",
+    "title": "领导布置任务只说好的不够｜复述确认法",
+    "badge": "向上管理",
+    "quote": "适用：职场新人、任务执行者、向上管理场景。",
+    "how": "适用：职场新人、任务执行者、向上管理场景。；上限：复述不能替代思考与交付，只是第一步。；反例：每件事都长篇复述会烦扰领导，要抓关键细节。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：领导布置任务时，只说「好的」是危险的。正确做法是用自己的话复述一遍并补充细节，让领导确认。这对领导是尊重与掌控感的来源，对自己是知情权、决策权与免责保障——万一搞砸，锅没那么容易甩过来。",
+    "purpose": "信息对齐",
+    "sources": [
+      {
+        "label": "领导布置任务只说好的不够｜复述确认法",
+        "href": "https://czh55.github.io/video-notes/task-restate-confirm-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "向上管理"
+    ]
+  },
+  {
+    "id": "vn-leader-confidence-answer",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "向上管理",
+    "title": "领导问「你有把握吗」？谨慎拍胸脯才是正解",
+    "badge": "向上管理",
+    "quote": "适用：领导追问信心、需要你表态推动的任务场景。",
+    "how": "适用：领导追问信心、需要你表态推动的任务场景。；上限：只对你有掌控空间的场景有效，超出能力硬承诺仍是风险。；反例：涉及原则或诚信的事不能靠话术兜底。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：领导问把握，拍不对、不拍也不对——讲事实、说「尽力」都是错误解法，因为 try to do 自带「可能做不成」的信号。正解是谨慎拍胸脯：先想一想再承诺（放慢动作传递「你思考过」），之后一有变化苗头就立即带方案汇报。领导要拍胸脯是表象，本质看的是态度和思路；他怕的不是变化，而是你跟不上变化。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "领导问「你有把握吗」？谨慎拍胸脯才是正解",
+        "href": "https://czh55.github.io/video-notes/leader-confidence-answer-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "向上管理"
+    ]
+  },
+  {
+    "id": "vn-ppt-capture-attention",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "汇报",
+    "title": "PPT汇报：怎么长时间抓住听众注意力",
+    "badge": "汇报",
+    "quote": "适用：讲解型 PPT 中的并列结构要点页（几点原因、几个要点），以及需要听众记住内容的汇报场景。",
+    "how": "适用：讲解型 PPT 中的并列结构要点页（几点原因、几个要点），以及需要听众记住内容的汇报场景。；上限：不适用于必须给出明确结论、一步接一步的流程或操作演示。；反例：内容之间有严格逻辑依赖时，强行要求排序反而会让听众困惑。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：PPT 内容「讲完就忘」的根源是听众只被动接收、没有主动处理。解法是讲完不翻页、抛出排序问题——没有标准答案，但听众为了排序必须先把内容想明白，注意力与记忆就同时完成了。费口水的不是有效讲解，而是重复灌输。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "PPT汇报：怎么长时间抓住听众注意力",
+        "href": "https://czh55.github.io/video-notes/ppt-capture-attention-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "汇报"
+    ]
+  },
+  {
+    "id": "vn-bad-data-highlights",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "汇报",
+    "title": "烂业绩数据也能讲出亮点｜六步法",
+    "badge": "汇报",
+    "quote": "适用：需要向团队/老板汇报阶段性经营数据的职场人。",
+    "how": "适用：需要向团队/老板汇报阶段性经营数据的职场人。；上限：技巧解决「怎么说」，不解决「数据真实与否」；数据本身造假会翻车。；反例：长期用「裁人提产能」「自定口径」粉饰，会失去团队信任。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：汇报烂数据的技巧不是粉饰，而是「换角度找亮点」——环比→同比→拆业务→拆财务→创造指标→定义口径，六步层层加码，从概率上提高找到可讲亮点的可能。每一步都在增加「有亮点」的概率。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "烂业绩数据也能讲出亮点｜六步法",
+        "href": "https://czh55.github.io/video-notes/bad-data-highlights-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "汇报"
+    ]
+  },
+  {
+    "id": "vn-workplace-speech-stance-interest",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "公开表达",
+    "title": "在职场，公开言论是维护自己和利益的",
+    "badge": "公开表达",
+    "quote": "个人运营复盘经验，非劳动法或合规举报指南。",
+    "how": "个人运营复盘经验，非劳动法或合规举报指南。；「杜布瓦立场三角」按作者口述引用，未展开学术定义。；预算/引流数字为举例框架，不是该活动的实测归因。",
+    "dont": "",
+    "script": "",
+    "summary": "公开言论首先是立场与利益工具，不是思想表达场。一句话同时完成评价、定位、结盟；开口前用三问改写问题定义与站位，第一目标是推动结果。事实/立场/利益三层，比多加班更能决定事能不能推动。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "在职场，公开言论是维护自己和利益的",
+        "href": "https://czh55.github.io/video-notes/workplace-speech-stance-interest-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "公开表达"
+    ]
+  },
+  {
+    "id": "vn-teach-face-saving",
+    "module": "scenes",
+    "scene": "workplace",
+    "group": "反馈",
+    "title": "给同事上课照顾面子｜先找亮点再补充",
+    "badge": "反馈",
+    "quote": "适用：给同事/下属反馈、做内训分享的职场人。",
+    "how": "适用：给同事/下属反馈、做内训分享的职场人。；上限：鼓励优先不排除必要的严肃，涉及红线问题要直接指出。；反例：只夸不批是另一种失真，学员得不到真实改进。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：给同事上课/反馈，照顾面子比展示正确更重要。成年人学习不能被否定，应以鼓励为主。目标不是让学员掌握你那套东西，而是收获粉丝、建立信任。具体技巧：先找学员回答中值得肯定的点，再补充改进建议——先找亮点再补充。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "给同事上课照顾面子｜先找亮点再补充",
+        "href": "https://czh55.github.io/video-notes/teach-face-saving-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "反馈"
+    ]
+  }
+]

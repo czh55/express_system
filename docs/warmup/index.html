@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>练嘴热身 · express-system</title>
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="top">
+  <a class="brand" href="../index.html">express-system</a>
+  <a class="" href="../index.html">首页</a>
+  <a class="" href="../emotion/index.html">情绪</a>
+  <a class="active" href="index.html">热身</a>
+  <a class="" href="../scenes/index.html">场景</a>
+  <a class="" href="../techniques/index.html">技巧</a>
+</nav>
+
+<header class="hero"><h1>练嘴热身</h1><p>久不说话后的启动协议。先热嘴，再热脑，最后才说事。</p></header>
+<div class="prose"><h1>练嘴热身协议</h1>
+<blockquote>目标人群：平时话少、久不说话后突然要开口时，容易<strong>咬字不清、磕巴、一口气说太长、断句错误后卡死</strong>。  </blockquote>
+<blockquote>本协议解决的是「嘴和脑子的启动带宽」，不是话术内容。内容技巧见场景模块。</blockquote>
+<h2>为何需要热身</h2>
+<p>长时间沉默时，口腔肌肉、呼吸节奏、语义检索三条链路都处于低唤醒。  </p>
+<p>一着急表达，常见三种翻车：</p>
+<table><thead><tr><th>症状</th><th>机制</th><th>热身对应段</th></tr></thead><tbody>
+<tr><td>咬字不清、舌头转不动</td><td>口肌未激活</td><td>绕口令</td></tr>
+<tr><td>一口气太长 → 后面结巴</td><td>不会换气/停顿</td><td>呼吸停顿</td></tr>
+<tr><td>急着出口 → 断句错 → 卡死</td><td>脑嘴不同步</td><td>贯口节奏 + 三句默念</td></tr>
+</tbody></table>
+<p>口令：<strong>先热嘴，再热脑，最后才说事。</strong></p>
+<p>---</p>
+<h2>标准协议：5 分钟（默认）</h2>
+<p>开会、打电话、当面汇报前，按顺序做。不必追求完美，追求「完成」。</p>
+<h3>① 呼吸停顿 · 60 秒</h3>
+<p>站或坐直，肩放松。</p>
+<ol>
+<li>鼻吸 4 拍 → 屏 1 拍 → 口呼 6 拍，做 4 轮。  </li>
+<li>读一句「复述换气句」，中间<strong>刻意停顿</strong>（停顿处用 <code>/</code> 标出）：</li>
+</ol>
+<pre class="code"><code>你刚才的意思是 / 进度卡在联调 / 还是卡在排期？</code></pre>
+<p>规则：停顿时闭嘴、换气，不要用「嗯嗯嗯」填空。  </p>
+<p>这直接对应你的旧笔记：<strong>不会换气时，先复述问题，边整理边找回节奏。</strong></p>
+<h3>② 口肌绕口令 · 90 秒</h3>
+<p>任选 <strong>1 条慢速 + 1 条常速</strong>（材料见 <code>drills/绕口令.md</code>）。</p>
+<table><thead><tr><th>遍数</th><th>要求</th></tr></thead><tbody>
+<tr><td>第 1 遍</td><td>慢到每个字咬清，宁可拖</td></tr>
+<tr><td>第 2 遍</td><td>常速，不错字</td></tr>
+<tr><td>第 3 遍</td><td>略快；错了立刻重来该句，不往下糊</td></tr>
+</tbody></table>
+<p>今日默认组合（可换）：</p>
+<ul>
+<li>慢速：<code>四是四，十是十</code>  </li>
+<li>常速：<code>吃葡萄不吐葡萄皮</code></li>
+</ul>
+<h3>③ 贯口节奏 · 90 秒</h3>
+<p>选 <strong>1 段短贯口</strong>（见 <code>drills/贯口.md</code>），目标不是背得多，而是：</p>
+<ul>
+<li>不断气乱抢  </li>
+<li>在标好的气口 <code>/</code> 换气  </li>
+<li>后半段不塌、不糊</li>
+</ul>
+<p>今日默认：<code>表达启动贯口（短版）</code> —— 专为开口前写的 8 句。</p>
+<h3>④ 脑嘴对齐 · 60 秒</h3>
+<p>用顺口溜锁结构（见 <code>drills/顺口溜.md</code>），跟读两遍：</p>
+<pre class="code"><code>先说结果，再说因，最后落点给行动。
+一句一事别塞馅，卡壳先停再复述。</code></pre>
+<p>然后把<strong>今天马上要说的一件事</strong>压成三句（只默念或低声，不表演）：</p>
+<ol>
+<li><strong>结果</strong>：现在是什么情况（一句话）  </li>
+<li><strong>原因</strong>：单一原因（一句话）  </li>
+<li><strong>行动</strong>：我下一步做什么（一句话）</li>
+</ol>
+<p>禁止：第一句先道歉铺垫；原因句塞三个借口。</p>
+<h3>⑤ 出口验收 · 30–40 秒</h3>
+<p>对着手机录音，用刚才三句<strong>说出来</strong>（不要读稿）。听回放只查三件事：</p>
+<ul>
+<li>[ ] 有没有明显咬字糊掉的字  </li>
+<li>[ ] 有没有一口气撑到发虚  </li>
+<li>[ ] 有没有因断句错误而卡死（急于表达的典型坑）</li>
+</ul>
+<p>任一不过 → 只重做 ② + ⑤，不再从头加戏。</p>
+<p>---</p>
+<h2>压缩版：3 分钟（电梯/马上进门）</h2>
+<table><thead><tr><th>秒数</th><th>动作</th></tr></thead><tbody>
+<tr><td>0–40</td><td>呼吸 2 轮 + 一句复述换气句</td></tr>
+<tr><td>40–100</td><td>一条绕口令 × 2 遍（慢→常）</td></tr>
+<tr><td>100–150</td><td>表达启动贯口短版 × 1</td></tr>
+<tr><td>150–180</td><td>三句默念结果→因→行动，出口说一遍（可不录音）</td></tr>
+</tbody></table>
+<h2>加强版：8 分钟（重要汇报 / 面试前）</h2>
+<p>在标准 5 分钟后追加：</p>
+<ol>
+<li><strong>第二条绕口令</strong>（换一组声母冲突，如 <code>h/f</code> 或 <code>n/l</code>）× 慢+常各一遍  </li>
+<li><strong>贯口完整版</strong>或加一段报菜名式短贯口 × 1  </li>
+<li><strong>压力模拟</strong>：假设对方打断你，用复述句接住再续上第三句行动  </li>
+</ol>
+<p>---</p>
+<h2>日常保养（非上场前）</h2>
+<p>若连续工作整天几乎不说话，下班前做 <strong>隔日保养 4 分钟</strong>，防止「嘴休眠」：</p>
+<ol>
+<li>绕口令 1 条 × 慢常快各 1  </li>
+<li>贯口短版 × 1  </li>
+<li>随便一件生活小事，三句说完并录音  </li>
+</ol>
+<p>不要求内容精彩，只要求<strong>每天至少有一次完整出口</strong>。</p>
+<p>---</p>
+<h2>上场前禁忌</h2>
+<ul>
+<li>不要用刷短视频当热身（输入≠出口肌肉）。  </li>
+<li>不要临场背长稿；热身只激活，表达用三句结构。  </li>
+<li>卡壳时禁止硬撑：停 → 复述对方/自己上一句 → 换气 → 再给行动句。  </li>
+<li>热身材料说不利索时，<strong>降速</strong>，不要加情绪对抗。</li>
+</ul>
+<p>---</p>
+<h2>材料索引</h2>
+<table><thead><tr><th>文件</th><th>用途</th></tr></thead><tbody>
+<tr><td><a href="drills/绕口令.md">drills/绕口令.md</a></td><td>口肌、咬字</td></tr>
+<tr><td><a href="drills/贯口.md">drills/贯口.md</a></td><td>连续出口、气口</td></tr>
+<tr><td><a href="drills/顺口溜.md">drills/顺口溜.md</a></td><td>结构口令、心态口令</td></tr>
+</tbody></table>
+<h2>与其他模块的接口</h2>
+<ul>
+<li>热身结束后进入场景内容（small talk / 职场 / 冲突 / 即兴）。  </li>
+<li>「三句」与视频笔记里的「三句话定乾坤」同构，可直接复用。  </li>
+<li>情绪不稳时：先做第 1 层（控情绪），再做本协议；情绪炸了硬练嘴只会越磕。</li>
+</ul></div>
+<h2 class="group-title">材料包</h2>
+<details class="drill"><summary>绕口令材料包</summary><div class="prose"><h1>绕口令材料包（练嘴热身）</h1>
+<p>用法见 <a href="../PROTOCOL.md">PROTOCOL.md</a>：上场前选 <strong>1 慢 + 1 常</strong>；加强版再换一组声母冲突。</p>
+<p>标注说明：</p>
+<ul>
+<li>★ 默认推荐（短、好记、升温快）</li>
+<li>气口用 <code>/</code> 标出；没标的可按逗号停</li>
+</ul>
+<p>---</p>
+<h2>A. 基础激活（每日首选）</h2>
+<h3>A1 ★ 四与十（平翘舌）</h3>
+<pre class="code"><code>四是四，十是十，
+十四是十四，四十是四十。
+谁能说准十四、四十、四十四，
+谁来试一试。</code></pre>
+<p>慢速要点：<code>四/十</code> 舌位分开，不要糊成一个音。</p>
+<h3>A2 ★ 葡萄皮（唇齿连续）</h3>
+<pre class="code"><code>吃葡萄不吐葡萄皮，
+不吃葡萄倒吐葡萄皮。</code></pre>
+<p>常速要点：<code>葡萄</code> 两字轻重要稳，不要越说越小声。</p>
+<h3>A3 花椒（开合口）</h3>
+<pre class="code"><code>粉红墙上画凤凰，
+凤凰画在粉红墙。
+红凤凰，粉凤凰，
+红粉凤凰，花凤凰。</code></pre>
+<p>适合早上口干、开合发紧时。</p>
+<p>---</p>
+<h2>B. 声母冲突组（加强版换练）</h2>
+<h3>B1 h / f</h3>
+<pre class="code"><code>黑化肥发灰，灰化肥发黑。
+黑化肥发灰会挥发，
+灰化肥挥发会发黑。</code></pre>
+<h3>B2 n / l</h3>
+<pre class="code"><code>牛郎恋刘娘，刘娘念牛郎；
+牛郎年年念刘娘，
+刘娘年年恋牛郎。</code></pre>
+<h3>B3 s / sh</h3>
+<pre class="code"><code>石狮子，涩柿子，
+吃柿子，看狮子；
+狮子是石狮子，
+柿子是涩柿子。</code></pre>
+<h3>B4 j / q / x（细音）</h3>
+<pre class="code"><code>七巷漆匠和西巷锡匠，
+七巷漆匠用了西巷锡匠的锡，
+西巷锡匠拿了七巷漆匠的漆。</code></pre>
+<p>---</p>
+<h2>C. 防「急着出口断句错」专用</h2>
+<p>这类绕口令故意有并列结构，练的是：<strong>宁可慢，不要在错误位置换气。</strong></p>
+<h3>C1 ★ 班门弄斧式断句</h3>
+<pre class="code"><code>我说 / 你说 / 他说 / 都别抢说；
+先听完 / 再开口 / 一句一事 / 说完再换。</code></pre>
+<p>（原创短句，专为热身；可当绕口令节奏练。）</p>
+<h3>C2 数字阶梯（越往后越容易抢气）</h3>
+<pre class="code"><code>一二三，三二一，
+一二三四五六七，
+七六五四三二一。</code></pre>
+<p>要求：每行只在行末换气；行中不准用「呃」填。</p>
+<p>---</p>
+<h2>D. 今日抽签表（避免总练同一条）</h2>
+<table><thead><tr><th>星期</th><th>慢速</th><th>常速</th></tr></thead><tbody>
+<tr><td>一</td><td>A1 四与十</td><td>A2 葡萄皮</td></tr>
+<tr><td>二</td><td>A3 凤凰</td><td>B1 化肥</td></tr>
+<tr><td>三</td><td>A1 四与十</td><td>B2 牛郎</td></tr>
+<tr><td>四</td><td>C2 数字</td><td>B3 狮子</td></tr>
+<tr><td>五</td><td>A2 葡萄皮</td><td>B4 漆匠</td></tr>
+<tr><td>六/日</td><td>自选一条生疏的</td><td>C1 断句</td></tr>
+</tbody></table>
+<p>---</p>
+<h2>自检口令</h2>
+<p>练完问自己三句：</p>
+<ol>
+<li>有没有字是「带过」而不是咬清的？  </li>
+<li>加速后有没有肩膀跟着紧？有 → 降速。  </li>
+<li>是否为了赶完而在错误位置换气？（对应旧坑：短句错误后卡死）</li>
+</ol></div></details>
+<details class="drill"><summary>贯口材料包</summary><div class="prose"><h1>贯口材料包（练嘴热身）</h1>
+<p>贯口练的是：<strong>连续出口 + 固定气口 + 后半段不塌</strong>。  </p>
+<p>不要求像相声演员一样快，要求像「能说完一段不把自己憋死」。</p>
+<p>气口一律用 <code>/</code> 标出。读到 <code>/</code> 必须停、换气、再接下句。</p>
+<p>---</p>
+<h2>1. ★ 表达启动贯口（短版 · 默认）</h2>
+<blockquote>原创 · 约 20 秒 · 上场前专用</blockquote>
+<pre class="code"><code>先热嘴，再热脑，/ 开口之前先站好。
+肩放松，气沉下，/ 别把整晚当表演。
+一句一事别塞馅，/ 卡壳先停再复述。
+结果在前因在后，/ 落点行动才算数。</code></pre>
+<p>练法：</p>
+<ol>
+<li>第一遍只求气口准确  </li>
+<li>第二遍略提速，后两句不缩小声  </li>
+</ol>
+<p>---</p>
+<h2>2. 表达启动贯口（完整版 · 加强）</h2>
+<blockquote>原创 · 约 40–50 秒</blockquote>
+<pre class="code"><code>久不说话嘴生锈，/ 一急就容易咬字糊。
+别硬撑，先复述，/ 换好气再把话说。
+四是四，十是十，/ 慢咬清再提速度。
+吃葡萄，吐葡萄皮，/ 唇齿利索不含糊。
+小谈先问别自嗨，/ 职场先报结果数。
+冲突先分事实情绪，/ 即兴先立一句目的。
+想沟通就谈条件，/ 谈不拢就划边界。
+无以自明可以沉默，/ 沉默也是一种做事。</code></pre>
+<p>完整版把协议心态也串进去了，适合面试/汇报前加强版。</p>
+<p>---</p>
+<h2>3. 报菜名式短贯口（连续记忆 + 节奏）</h2>
+<blockquote>经典结构改编 · 热身用短版（不是全本）</blockquote>
+<pre class="code"><code>蒸羊羔 / 蒸熊掌 / 蒸鹿尾儿 / 烧花鸭 /
+烧雏鸡 / 烧子鹅 / 卤猪 /
+卤鸭 / 酱鸡 / 腊肉 / 松花 /
+小肚儿 / 晾肉 / 香肠儿 /
+什锦苏盘 / 熏鸡白肚儿 /
+清蒸八宝猪 / 江米酿鸭子。</code></pre>
+<p>用法：不必背全中国菜谱。热身只求：</p>
+<ul>
+<li><code>/</code> 处换气  </li>
+<li>名词咬字清楚  </li>
+<li>最后两行不塌调  </li>
+</ul>
+<p>若生疏，可先只练前 8 个词，滚熟再加长。</p>
+<p>---</p>
+<h2>4. 数字贯口（防一口气撑爆）</h2>
+<pre class="code"><code>一二三四五，/ 六七八九十，/
+十一十二十三十四，/ 十五十六十七十八，/
+十九二十再回头，/ 气口不断字不丢。</code></pre>
+<p>故意在「十几」段容易抢气——练的就是<strong>敢停</strong>。</p>
+<p>---</p>
+<h2>5. 职场上场贯口（场景衔接）</h2>
+<blockquote>原创 · 汇报/对齐会前 15 秒</blockquote>
+<pre class="code"><code>先报结果再讲因，/ 因只一条别堆坟。
+第三句给行动项，/ 时间负责人写清。
+领导打断先复述，/ 复述完了再补丁。</code></pre>
+<p>与「三句话定乾坤」同构，热身完可直接开口办事。</p>
+<p>---</p>
+<h2>练习档位</h2>
+<table><thead><tr><th>档位</th><th>选段</th><th>遍数</th></tr></thead><tbody>
+<tr><td>3 分钟压缩</td><td>§1 短版</td><td>×1</td></tr>
+<tr><td>5 分钟标准</td><td>§1 短版</td><td>×2（第二遍略快）</td></tr>
+<tr><td>8 分钟加强</td><td>§2 完整版 或 §1+§5</td><td>各 ×1</td></tr>
+<tr><td>隔日保养</td><td>§1 或 §4</td><td>×1</td></tr>
+</tbody></table>
+<p>---</p>
+<h2>翻车时怎么救</h2>
+<ul>
+<li><strong>后半段糊了</strong>：不要重头冲刺；从最后一个 <code>/</code> 之后重来。  </li>
+<li><strong>永远换不过气</strong>：把贯口再拆短，宁可 6 个气口，不要逞能。  </li>
+<li><strong>背词分心</strong>：热身阶段允许看稿；目标是嘴和气，不是背诵表演。</li>
+</ul></div></details>
+<details class="drill"><summary>顺口溜材料包</summary><div class="prose"><h1>顺口溜材料包（练嘴热身）</h1>
+<p>顺口溜负责两件事：<strong>记住协议步骤</strong>，以及<strong>给脑子一个固定槽位</strong>（防急着乱说）。  </p>
+<p>跟读时要出声；默念不算热身。</p>
+<p>---</p>
+<h2>1. ★ 协议总口令（必背）</h2>
+<pre class="code"><code>先热嘴，再热脑，最后才把事情讲。
+绕口令，贯口气，三句话里定方向。</code></pre>
+<p>对应 PROTOCOL：绕口令 → 贯口 → 三句结构。</p>
+<p>---</p>
+<h2>2. ★ 三句结构口令（脑嘴对齐段）</h2>
+<pre class="code"><code>先说结果，再说因，最后落点给行动。
+一句一事别塞馅，卡壳先停再复述。</code></pre>
+<p>变体（职场汇报）：</p>
+<pre class="code"><code>结果同步要干脆，原因只留一条根；
+行动写清谁来做，别把委屈堆上门。</code></pre>
+<p>---</p>
+<h2>3. 换气 / 停顿口令（针对「不会换气」）</h2>
+<pre class="code"><code>话说一半可以停，停不是怂是换气；
+复述一句找节奏，找着气口再接戏。</code></pre>
+<p>急着出口、断句错误时用：</p>
+<pre class="code"><code>欲速则不达，出口先断对；
+断错立刻停，重来不为罪。</code></pre>
+<p>---</p>
+<h2>4. 情绪底座口令（热身前后各念一遍）</h2>
+<pre class="code"><code>语言是工具，不是英雄片；
+目的先想清，情绪再靠边。
+温着开场别过热，过热容易把脚绊。</code></pre>
+<p>冲突前加半句：</p>
+<pre class="code"><code>事实一层，情绪一层，利益一层分开谈。</code></pre>
+<p>---</p>
+<h2>5. Small talk 启动口令</h2>
+<pre class="code"><code>先判关系再开口，提问开场少自嗨；
+两分钟故事别超长，夸人夸到细节来。</code></pre>
+<p>---</p>
+<h2>6. 即兴启动口令</h2>
+<pre class="code"><code>先立目的一句话，再给例子撑住它；
+接不上话先总结，总结完了再发花。</code></pre>
+<p>「发花」= 补充观点；接话困难时优先「做总结偷时间」。</p>
+<p>---</p>
+<h2>7. 结束验收口令（录音回放时对照）</h2>
+<pre class="code"><code>字咬清，气不断，句不抢；
+三件过了再上场。</code></pre>
+<p>---</p>
+<h2>怎么用（不要当朗诵比赛）</h2>
+<table><thead><tr><th>场景</th><th>用法</th></tr></thead><tbody>
+<tr><td>每日热身 §④</td><td>§1 + §2 各跟读 2 遍，再压今天的三句</td></tr>
+<tr><td>电话前</td><td>§3 换气口令 1 遍 → 直接拨</td></tr>
+<tr><td>感到表演焦虑</td><td>§4 情绪口令，降 ego</td></tr>
+<tr><td>无聊局</td><td>§5，提醒自己提问开场</td></tr>
+<tr><td>被追问发懵</td><td>§6，先总结对方的话</td></tr>
+</tbody></table>
+<p>顺口溜说顺 ≠ 会表达；它只是<strong>把正确顺序焊进肌肉记忆</strong>。焊牢之后，上场靠三句内容，不靠继续背溜。</p></div></details>
+<footer>语料提炼自 video-notes / audio-workshop · 热身协议为原创 · 本站做结构化练习壳</footer>
+</div>
+</body>
+</html>

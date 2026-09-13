@@ -1,0 +1,722 @@
+[
+  {
+    "id": "hb-13",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "真诚拒绝 = 感谢 + 原因 + 余地",
+    "badge": "真诚拒绝 = 感谢 + 原因 + 余地",
+    "quote": "十万砍到八千也可以婉拒，不必撒谎。",
+    "how": "",
+    "dont": "",
+    "script": "「谢谢信任。这段时间档期不合适，以后有合适场次再喊我。」（不必编虚假借口）",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 · 商演报价",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-14",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "面恶心善的红利与成本",
+    "badge": "面恶心善的红利与成本",
+    "quote": "看上去不好沟通，谈完发现挺好说话——有惊喜感；但也可能「干了活没落好」。",
+    "how": "知道自己类型：难拒绝者可借经纪人/第三方当坏人；表情管理不到位就事后补一句「其实没问题」。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-15",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "家人唠叨：表情回复，不辩经",
+    "badge": "家人唠叨：表情回复，不辩经",
+    "quote": "抱拳 / OK / 敬礼——完事了就挺好。",
+    "how": "催婚转移话题；职业选择通气一次即可，不必征求同意；父母理财「不要介入别人因果」（除非对方主动求助且风险重大）。",
+    "dont": "",
+    "script": "",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "不开玩笑 · 嘉宁式回复",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-16",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "先谈条件，再谈情绪",
+    "badge": "先谈条件，再谈情绪",
+    "quote": "被动攻击（问号、小阴阳）不如电话把事对齐。",
+    "how": "文字容易阴阳；重要分歧改语音/当面，先对齐事实与诉求。完整句式见《有理说不赢》。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "有理说不赢 ← 不开玩笑",
+        "href": "https://czh55.github.io/audio-workshop/有理说不赢-I人冲突与索赔手册.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-17",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "维权表达：拒绝「算了」",
+    "badge": "维权表达：拒绝「算了」",
+    "quote": "不接受道歉，要求依法调查。",
+    "how": "",
+    "dont": "",
+    "script": "「我现在需要依法处理，不接受私下和解。」首次描述要极细，要求与对方分开陈述；拿受案回执。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "无所世事 · 维权实录 VOL.231",
+        "href": "https://czh55.github.io/audio-workshop/rights_protection_ep231-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-18",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "field",
+    "title": "觉察系统一：别被连贯故事带走",
+    "badge": "觉察系统一：别被连贯故事带走",
+    "quote": "人爱听故事因为连贯；连贯后就不愿追问真假。",
+    "how": "争论或被说服时问：样本量够吗？缺了什么信息？把「好故事」与「可验证」分开——表达时自己也少用假因果。",
+    "dont": "",
+    "script": "",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "文化有限 · 思考，快与慢",
+        "href": "https://czh55.github.io/audio-workshop/thinking_fast_slow_brain-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-24",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "family",
+    "title": "直接说想要什么",
+    "badge": "直接说想要什么",
+    "quote": "「如果你真的爱我，你应该知道我想要什么」——是恶性猜测游戏。",
+    "how": "",
+    "dont": "",
+    "script": "「我需要你……（具体行为），而不是猜。」对自己也适用：停止当情绪垃圾桶——「我可以听，但不负责你的人生决定。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "燕外之意 · 不成熟的父母",
+        "href": "https://czh55.github.io/audio-workshop/yanwai_immature_parents-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-25",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "family",
+    "title": "观察命名 ≠ 背叛",
+    "badge": "观察命名 ≠ 背叛",
+    "quote": "认清是为了断循环，不是为了仇恨。",
+    "how": "把感受写出来、跟可信第三方说——表达完成本身就是边界练习；不必在父母面前当场辩论胜利。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "燕外之意",
+        "href": "https://czh55.github.io/audio-workshop/yanwai_immature_parents-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "hb-26",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "family",
+    "title": "别用比惨代替表达",
+    "badge": "别用比惨代替表达",
+    "quote": "表达是为了被理解，还是为了道德安全？",
+    "how": "网上吵架论证「谁更惨」。承认创伤可以，但力量最终要自己赋予；结构性弱者优先保护 ≠ 竞争性自怜。",
+    "dont": "网上吵架论证「谁更惨」。承认创伤可以，但力量最终要自己赋予；结构性弱者优先保护 ≠ 竞争性自怜。",
+    "script": "",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "热可可 · 为什么每个人都觉得自己是受害者",
+        "href": "https://czh55.github.io/audio-workshop/rekoe_victim_mentality-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-001",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "认知纠偏：嘴上赢 ≠ 有理",
+    "title": "系统一陷阱",
+    "badge": "系统一陷阱",
+    "quote": "吵架现场几乎是系统一（快直觉、情绪、气势）在打；系统二（慢推理、证据、结构）来不及上场。",
+    "how": "你明明有论据，但对方语速更快、打断更多，你越急越说不清——这不是你没理，是赛道错了。",
+    "dont": "",
+    "script": "",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "文化有限 · 思考，快与慢",
+        "href": "https://czh55.github.io/audio-workshop/thinking_fast_slow_brain-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-002",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "认知纠偏：嘴上赢 ≠ 有理",
+    "title": "别抢受害者资本",
+    "badge": "别抢受害者资本",
+    "quote": "比惨是道德不安全感的防御；表达应走向理解，而非控制的死循环。",
+    "how": "对方用「我更惨 / 我才是受害者」抢道德制高点，你跟着比惨或自证「我也很委屈」——越吵越亏。",
+    "dont": "",
+    "script": "",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "Rekoe · 为什么每个人都觉得自己是受害者",
+        "href": "https://czh55.github.io/audio-workshop/rekoe_victim_mentality-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-003",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "认知纠偏：嘴上赢 ≠ 有理",
+    "title": "面对真相 > 当场自证",
+    "badge": "面对真相 > 当场自证",
+    "quote": "自证往往源于不自信；面对真相才是动态成长的前提。真相是一切问题的钥匙。",
+    "how": "被批评/被拒时拼命解释「我不是那样的人」，精力全耗在人设上，结果既没赢也没推进事。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "辩论小会 · 对谈姜思达：面对真相的能力",
+        "href": "https://czh55.github.io/audio-workshop/jiangsida_zhenxiang_nengli-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-004",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "被动方怎么守：别人先开火时",
+    "title": "写清楚胜过话术",
+    "badge": "写清楚胜过话术",
+    "quote": "不需要任何沟通技巧，全部写出来就行……想沟通就沟通，想不沟通就不沟通。",
+    "how": "当面被连珠炮追问，脑子空白；或者对方用「发问号、小阴阳」做被动攻击。",
+    "dont": "",
+    "script": "「这个我现场说不清，晚上把三点写给你。」 / 「这不像商量，像错位的沟通，我们先回到平等再说。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 · 君子动口不动手：聊聊沟通",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-005",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "被动方怎么守：别人先开火时",
+    "title": "用问题代替结论",
+    "badge": "用问题代替结论",
+    "quote": "结论是别人塞给你的，问题是自己长出来的。用提问代替论断，让对方自己展开，漏洞自己会露。",
+    "how": "你不擅长「捉住别人漏斗」，对方却擅长甩锅、甩结论。",
+    "dont": "",
+    "script": "「你说的依据是什么？」 / 「如果我们按你的逻辑推到底，会变成什么？」 / 「你是要解决问题，还是要我认错？」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "说服话术专栏 · 第六类（范来张口 / 不开玩笑 / Photo Reason 等）",
+        "href": "https://czh55.github.io/audio-workshop/说服话术-从播客中学到的表达武器.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-006",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "被动方怎么守：别人先开火时",
+    "title": "换坐标系",
+    "badge": "换坐标系",
+    "quote": "话术底层是话语主导权。把对方习惯的概念换成你的定义，争论的坐标系就换了。",
+    "how": "对方用「你太计较 / 你小心眼」定调，你被迫在「是不是计较」上自证。",
+    "dont": "",
+    "script": "「我不是计较，我是要把规则说清楚，避免以后再吵。」 / 「那这就不是对错讨论了，是边界——我接受不了这个边界。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "说服话术专栏 · 第一类「不是 X，而是 Y」",
+        "href": "https://czh55.github.io/audio-workshop/说服话术-从播客中学到的表达武器.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-007",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "被动方怎么守：别人先开火时",
+    "title": "控制走向",
+    "badge": "控制走向",
+    "quote": "会聊天的人，都在偷偷调频：不是认输，是你来定节奏。",
+    "how": "对话被对方情绪带跑，你跟着升温，最后只剩互相伤害。",
+    "dont": "",
+    "script": "「我们先停一下，我把事实理完再回。」 / 「我今天只谈一件事，其他以后再说。」",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "谈话氛围控制专栏 · 控制走向 / 自嘲软化",
+        "href": "https://czh55.github.io/audio-workshop/谈话氛围控制-从播客中学到的对话调频.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-008",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "损失方怎么攻：你要主动理论时",
+    "title": "开口前三件事",
+    "badge": "开口前三件事",
+    "quote": "没有「下一步」，你就不是在理论，是在求对方良心发现——I 人最容易在这里吃亏。",
+    "how": "纸上写死：①事实与证据 ②明确诉求（一个数字/动作）③对方不答应时的升级路径。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "综合：沟通篇 + 维权篇 + 说服话术",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-009",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "损失方怎么攻：你要主动理论时",
+    "title": "索赔四步脚本",
+    "badge": "索赔四步脚本",
+    "quote": "顺序固定：点名损失 → 钉责任 → 提诉求与时限 → 说明升级路径。",
+    "how": "能发消息就发消息；必须当面，也先把这四句背熟。邀约时可声明「约 15 分钟，不是吵架」。",
+    "dont": "",
+    "script": "「关于〔事实〕，我这边损失是〔结果/金额〕。责任在〔对方行为〕。 我的要求是：〔具体诉求〕，请在〔时间〕前回复。 若无法处理，我会走〔文字留痕 / 平台投诉 / 法务 / 报警〕。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "综合：维权实录的「拒绝算了」结构 + 沟通篇「先谈条件」",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-010",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "损失方怎么攻：你要主动理论时",
+    "title": "对方四招反杀",
+    "badge": "对方四招反杀",
+    "quote": "我不接受道歉，我需要调查。你只要觉得不能过，天王老子来了也不能过。",
+    "how": "",
+    "dont": "",
+    "script": "「如果吃亏的是你自己/你家人，你还会说算了吗？」——打掉劝退，球踢回诉求。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "无所世事 · 维权实录 VOL.231 结构迁移到民事/职场",
+        "href": "https://czh55.github.io/audio-workshop/rights_protection_ep231-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-011",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "损失方怎么攻：你要主动理论时",
+    "title": "判断能不能谈",
+    "badge": "判断能不能谈",
+    "quote": "发票已经开好了，到这个结果，就不是沟通技巧可以解决了。",
+    "how": "对方还能谈 → A 为主、B 备好；对方已摆烂 → 少耗口舌，直接上 C（催告/合同/坏账策略）。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 · 沟通「方法边界」表",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-012",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：职场压话术与合作谈钱",
+    "title": "先小人后君子",
+    "badge": "先小人后君子",
+    "quote": "这个活多少钱，你看你有没有意愿——而不是「我这有个活你有时间」。",
+    "how": "合作邀约不谈钱；干完才发现冠军价比一轮游还低；你不好意思先问。",
+    "dont": "",
+    "script": "「方便先把预算和交付写清楚吗？我按这个评估能不能接。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 / 说服话术",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-013",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：职场压话术与合作谈钱",
+    "title": "点破「给你个机会」",
+    "badge": "点破「给你个机会」",
+    "quote": "明明是你想让我帮你办事，但你说的好像是我再给你一个机会——那种不平等或错位的沟通，我就很讨厌。",
+    "how": "职场请你加班/白干，话术包装成「给你机会露脸」。",
+    "dont": "",
+    "script": "「如果是请我帮忙，我们按帮忙谈；如果是正式任务，我们按职责和报酬谈。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "说服话术 · 不开玩笑「不平等的沟通」",
+        "href": "https://czh55.github.io/audio-workshop/说服话术-从播客中学到的表达武器.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-014",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：职场压话术与合作谈钱",
+    "title": "面恶心善红利",
+    "badge": "面恶心善红利",
+    "quote": "看上去不好沟通，反而能天然拒绝无理要求；吃亏的往往是「干了活还没落好」的好人。",
+    "how": "你看起来好说话，别人默认你会答应；事后又埋怨你「怎么不早说」。",
+    "dont": "",
+    "script": "「这次做不到〔X〕，原因是〔Y〕。如果改成〔替代方案〕我可以。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 · 面恶心善 vs 嘴硬耳根软",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-015",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：明确被侵害（损失方最硬案例）",
+    "title": "拒绝算了",
+    "badge": "拒绝算了",
+    "quote": "律师说：我们是受害者，我们有什么好怕的。犯罪的人是他。",
+    "how": "当场喝止并尽量公共场域说清事实 → 报警 → 第一次描述定调（时间线要细）→ 拒绝调解式道歉 → 拿受案回执 → 笔录逐字确认 → 知识武装（查清法律要件）。",
+    "dont": "",
+    "script": "「我不接受道歉，我需要依法调查 / 按流程处理。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "无所世事 · 别再劝我算了！维权实录 VOL.231",
+        "href": "https://czh55.github.io/audio-workshop/rights_protection_ep231-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-016",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：家庭与情绪战",
+    "title": "催婚/唠叨：不辩经",
+    "badge": "催婚/唠叨：不辩经",
+    "quote": "我妈给我发啥，我要么这个（表情），要么这个……完事了就，挺好。怎么说都是说不通的。",
+    "how": "父母催婚、职业质疑、重复叮嘱——你越解释越被消耗。",
+    "dont": "",
+    "script": "「我知道了。」（停） / 「这事我自己有安排，有进展会告诉你们。」",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "不开玩笑 · 嘉宁式回复 / 催婚死胡同",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-017",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：家庭与情绪战",
+    "title": "原生家庭比惨",
+    "badge": "原生家庭比惨",
+    "quote": "若对方只能比惨，不必期待其道歉能力，把表达重心转向自我理解而非改变对方。",
+    "how": "你谈创伤，对方立刻「我为你付出这么多」——进入「我更惨」死循环。",
+    "dont": "",
+    "script": "",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "Rekoe · 受害者心态",
+        "href": "https://czh55.github.io/audio-workshop/rekoe_victim_mentality-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-018",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "分情况：家庭与情绪战",
+    "title": "亲密关系冲突",
+    "badge": "亲密关系冲突",
+    "quote": "表达是防御的结束，而非开始。先说感受与需求，再谈事实；比惨局直接停。",
+    "how": "",
+    "dont": "",
+    "script": "「我现在的感受是……我需要的是……关于事实，我看到的是……你愿不愿意一起解决？」 若对方只攻击：「我们先停 20 分钟，冷静后再谈诉求。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "综合：氛围控制「共情接住」+ 受害者心态「表达完成」",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-019",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "句式速查（按角色）",
+    "title": "被动方 5 句",
+    "badge": "被动方 5 句",
+    "quote": "",
+    "how": "",
+    "dont": "",
+    "script": "1. 「这个我现场说不清，晚上把三点写给你。」 2. 「你说的依据是什么？事实还是感觉？」 3. 「你是要解决问题，还是要我认错？」 4. 「这不像商量，像错位的沟通。」 5. 「我不是计较，我是要把规则说清楚。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "综合第二节",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-020",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "句式速查（按角色）",
+    "title": "损失方 5 句",
+    "badge": "损失方 5 句",
+    "quote": "",
+    "how": "",
+    "dont": "",
+    "script": "1. 「我今天只谈一件事：〔损失〕。我的要求是〔诉求〕。」 2. 「请在〔时限〕前回复；否则我会走〔升级路径〕。」 3. 「我不接受只道歉 / 算了。我要〔结果〕。」 4. 「其他以后再说。现在只回答：做不做、什么时候做。」 5. 「今天记下：你答应〔X〕，截止日期〔Y〕。我稍后发确认消息。」",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "综合第三节 + 维权实录",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  },
+  {
+    "id": "conflict-claim-021",
+    "module": "scenes",
+    "scene": "conflict",
+    "group": "句式速查（按角色）",
+    "title": "延伸阅读（站内）",
+    "badge": "延伸阅读（站内）",
+    "quote": "",
+    "how": "· 君子动口不动手：聊聊沟通 · 维权实录 VOL.231 · 思考，快与慢 · 为什么每个人都觉得自己是受害者 · 面对真相的能力 · 说服话术 · 谈话氛围控制",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "专栏与单集",
+        "href": "",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "有理说不赢",
+      "conflict"
+    ]
+  }
+]

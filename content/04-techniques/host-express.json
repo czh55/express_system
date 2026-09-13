@@ -1,0 +1,127 @@
+[
+  {
+    "id": "vn-host-express-system-intro",
+    "module": "techniques",
+    "scene": null,
+    "group": "表达系统",
+    "title": "主持人跟练｜14天建立表达系统",
+    "badge": "表达系统",
+    "quote": "开篇只建立结构习惯，不含画面感/观点深度/即兴完整课。",
+    "how": "开篇只建立结构习惯，不含画面感/观点深度/即兴完整课。；职场示范侧重同步与补救，不覆盖所有危机公关场景。；「不背锅」指表达策略，不鼓励隐瞒真实责任。",
+    "dont": "",
+    "script": "",
+    "summary": "结巴、脑空白或讲不清时，用14天系统入门：前三天练结构感，「三句话定乾坤」按结果→原因→行动说清一事；迟到撞领导示范结构性汇报——不背锅只解决问题。",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "主持人跟练｜14天建立表达系统",
+        "href": "https://czh55.github.io/video-notes/host-express-system-intro-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "表达系统"
+    ]
+  },
+  {
+    "id": "vn-host-express-day2-logic",
+    "module": "techniques",
+    "scene": null,
+    "group": "表达系统",
+    "title": "14天建立表达系统day2｜如何让表达更有逻辑性",
+    "badge": "表达系统",
+    "quote": "面向口语与职场短汇报，不替代正式公文或法律陈述规范。",
+    "how": "面向口语与职场短汇报，不替代正式公文或法律陈述规范。；「只换词」是 day2 剂量；画面感/具体化在后续天数另练。；逻辑词清单可自扩展，但不要为了炫词牺牲一句一核。",
+    "dont": "",
+    "script": "",
+    "summary": "三句框架写得出仍像流水账时，先修三大病（结果优先、一句一信息、补齐落点），再把「因为/我决定」换成「根源在于/应对策略」——结构不变，逻辑感升级。",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "14天建立表达系统day2｜如何让表达更有逻辑性",
+        "href": "https://czh55.github.io/video-notes/host-express-day2-logic-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "表达系统"
+    ]
+  },
+  {
+    "id": "vn-host-express-day3-ai",
+    "module": "techniques",
+    "scene": null,
+    "group": "表达系统",
+    "title": "主持人14天建立表达系统3️⃣AI指令带你跟练",
+    "badge": "表达系统",
+    "quote": "示范用通用大模型对话，效果依赖你是否诚实回答追问。",
+    "how": "示范用通用大模型对话，效果依赖你是否诚实回答追问。；三句结构适合作结论表达与工作同步，不覆盖所有叙事体裁。；AI 指出矛盾不等于事实真相，最终判断仍在你。",
+    "dont": "",
+    "script": "",
+    "summary": "被问「你到底想说什么」时，用结果→原因→行动做结构安检；把固定提示词交给 AI 追问逃避与矛盾并重组三句，缺的是安检员不是口才。",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "主持人14天建立表达系统3️⃣AI指令带你跟练",
+        "href": "https://czh55.github.io/video-notes/host-express-day3-ai-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "表达系统"
+    ]
+  },
+  {
+    "id": "vn-host-speak-visual-sense",
+    "module": "techniques",
+    "scene": null,
+    "group": "具体化",
+    "title": "主持人手把手跟练🎤4天练出说话的“画面感”",
+    "badge": "具体化",
+    "quote": "面向日常口语与出镜叙述，不替代新闻事实核查规范。",
+    "how": "面向日常口语与出镜叙述，不替代新闻事实核查规范。；「两个感官」是入门剂量，专业稿件可按体裁调整密度。；前三天结构练习是前置，本片默认话已不太乱套。",
+    "dont": "",
+    "script": "",
+    "summary": "说话干巴、对方只回「哦对」时，用五感钩子法每次只嵌两个感官细节，把「风很大」「没干嘛」改成可放映的动作与气味画面。",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "主持人手把手跟练🎤4天练出说话的“画面感”",
+        "href": "https://czh55.github.io/video-notes/host-speak-visual-sense-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "具体化"
+    ]
+  },
+  {
+    "id": "vn-high-eq-no-filler-words",
+    "module": "techniques",
+    "scene": null,
+    "group": "承接语",
+    "title": "说话别用口水词，高情商都这样表达！",
+    "badge": "承接语",
+    "quote": "真正要升级的是“连接功能”，不是把五个词永久拉黑。",
+    "how": "真正要升级的是“连接功能”，不是把五个词永久拉黑。；五组替换分别服务推进、转折、收束、举例与强调。；“高情商”是标题立场；证据只到示范清单。",
+    "dont": "",
+    "script": "",
+    "summary": "核心判断：视频给出的不是“永远禁止说然后/但是/就是/比如/其实”，而是一套可复用的替换清单：把口头连接词升级成带推进、转折、收束、举例或强调功能的承接语。证据强度停留在示范层面，未证明这些说法必然更高情商。",
+    "purpose": "结构训练",
+    "sources": [
+      {
+        "label": "说话别用口水词，高情商都这样表达！",
+        "href": "https://czh55.github.io/video-notes/high-eq-no-filler-words-图文实录.html",
+        "repo": "video-notes"
+      }
+    ],
+    "tags": [
+      "video-notes",
+      "承接语"
+    ]
+  }
+]

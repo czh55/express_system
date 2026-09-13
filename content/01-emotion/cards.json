@@ -1,0 +1,128 @@
+[
+  {
+    "id": "emo-haixiu-warm",
+    "module": "emotion",
+    "scene": null,
+    "group": "心态底座",
+    "title": "松弛 ≠ 不在乎",
+    "badge": "温着开场",
+    "quote": "允许自己在乎，但别把整晚变成自我英雄片。",
+    "how": "进门默念：今晚保持「温」——不过热表演、不冷场装死。",
+    "dont": "用吹嘘、耍猴、抢金句填补不适。",
+    "script": "今晚我的任务是把事说清楚，不是成为全场主角。",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "嗨咻 · 为什么越想表现自己，越容易在社交中露怯",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["情绪", "社交焦虑"]
+  },
+  {
+    "id": "emo-boundary-comm",
+    "module": "emotion",
+    "scene": null,
+    "group": "心态底座",
+    "title": "想沟通就沟通，想不沟通就不沟通",
+    "badge": "议题边界",
+    "quote": "催婚、父母理财、行业坏账——有些议题根本不在沟通范畴。",
+    "how": "先问：这是信息对齐问题，还是边界/损失比例问题？后者用划界与接受损失。",
+    "dont": "把一切失败归因成「我不会说话」。",
+    "script": "这件事我们先谈条件；谈不拢我接受损失，而不是继续辩论。",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "不开玩笑 · 君子动口不动手：聊聊沟通",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["边界", "沟通"]
+  },
+  {
+    "id": "emo-silence-liuzhenyun",
+    "module": "emotion",
+    "scene": null,
+    "group": "沉默与真相",
+    "title": "无以自明 → 沉默也是做事",
+    "badge": "沉默哲学",
+    "quote": "觉着无以自明的时候，我就不说话。",
+    "how": "说不清时先停；用行动或书面对齐替代口头硬撑。",
+    "dont": "为尊严反复自证，把场面越描越黑。",
+    "script": "这件事我现在说不清，我先整理事实再回复。",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "无尽的谈话 × 刘震云",
+        "href": "https://czh55.github.io/audio-workshop/liuzhenyun_ep01_dialogue-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["沉默", "自证"]
+  },
+  {
+    "id": "emo-truth-jiang",
+    "module": "emotion",
+    "scene": null,
+    "group": "沉默与真相",
+    "title": "面对真相：言行一致，不自证成瘾",
+    "badge": "真相能力",
+    "quote": "面对真相的能力，比风口的保质期更长。",
+    "how": "公众与私下落差大时，先问自己是否诚实；辩论可练表达，但「听观点」才是刚需。",
+    "dont": "为了赢每一次嘴仗牺牲可信度。",
+    "script": "我关心的是事实是否对得上，不是这回合谁赢。",
+    "purpose": "信息对齐",
+    "sources": [
+      {
+        "label": "天真不天真 × 姜思达",
+        "href": "https://czh55.github.io/audio-workshop/",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["真相", "可信度"]
+  },
+  {
+    "id": "emo-system1",
+    "module": "emotion",
+    "scene": null,
+    "group": "认知觉察",
+    "title": "觉察系统一：别被连贯故事带走",
+    "badge": "快与慢",
+    "quote": "吵架现场几乎是系统一在打；系统二来不及上场。",
+    "how": "争论或被说服时问：样本量够吗？缺了什么信息？把好故事与可验证分开。",
+    "dont": "用假因果包装自己的表达。",
+    "script": "这个结论听起来顺，证据链还缺哪一环？",
+    "purpose": "信息对齐",
+    "sources": [
+      {
+        "label": "文化有限 · 思考，快与慢",
+        "href": "https://czh55.github.io/audio-workshop/thinking_fast_slow_brain-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["认知", "冲突前"]
+  },
+  {
+    "id": "emo-victim-not-express",
+    "module": "emotion",
+    "scene": null,
+    "group": "叙事陷阱",
+    "title": "别用比惨代替表达",
+    "badge": "表达≠比惨",
+    "quote": "表达是为了被理解，还是为了道德安全？",
+    "how": "把感受写出来或跟可信第三方说——表达完成本身就是边界练习。",
+    "dont": "在父母/同事面前用创伤叙事换道德高地。",
+    "script": "我需要的是被理解这件事，不是比较谁更惨。",
+    "purpose": "情绪承接",
+    "sources": [
+      {
+        "label": "热可可 · 为什么每个人都觉得自己是受害者",
+        "href": "https://czh55.github.io/audio-workshop/rekoe_victim_mentality-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": ["受害者叙事"]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "hb-05",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "先判关系再开口",
+    "badge": "先判关系再开口",
+    "quote": "判断前辈 / 同辈 / 对手 / 下属，是修养不是势力。",
+    "how": "前辈：礼貌少随便；同辈可松；利益竞争把门；下属场合多听真实感受。",
+    "dont": "",
+    "script": "",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻 · 社交露怯",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-06",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "安全闲聊题清单",
+    "badge": "安全闲聊题清单",
+    "quote": "吃喝旅行剧展星座运动——只聊两三句也成立。",
+    "how": "感情状态、绩效奖金投资、宗教政治——除非对方主动说。",
+    "dont": "",
+    "script": "写 10 条轻问题 + 3 条绝对不问。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-07",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "湿海绵蛋糕：≤2 分钟故事",
+    "badge": "湿海绵蛋糕：≤2 分钟故事",
+    "quote": "好谈话又干又湿：干=方法，湿=感受与情节。",
+    "how": "准备 1 观察 + 1 糗事 + 1 中性经历，均可压到两分钟；需要时当「湿润小蛋糕」垫场。",
+    "dont": "",
+    "script": "",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-08",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "提问式赞美 + 夸细节",
+    "badge": "提问式赞美 + 夸细节",
+    "quote": "不会夸，就用提问完成赞美。",
+    "how": "陌生场合乱吐槽——对方会担心「你走了我也会被说」。",
+    "dont": "陌生场合乱吐槽——对方会担心「你走了我也会被说」。",
+    "script": "「您怎么做到高密度高质量输出？」／夸丝巾扣这类具体细节，少空夸「你好厉害」。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-09",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "别说大话；诚实现状",
+    "badge": "别说大话；诚实现状",
+    "quote": "越是胆怯的场合，越要实事求是。",
+    "how": "别人聊巴厘岛，你可提问记笔记，大方说「我可能去青浦」。可假装「我迈得出提问第一步」，勿假装财富圈层。",
+    "dont": "",
+    "script": "",
+    "purpose": "利益推动",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-10",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "前辈局：当话不多的主持人",
+    "badge": "前辈局：当话不多的主持人",
+    "quote": "印象深刻靠提问，不靠抢戏。",
+    "how": "",
+    "dont": "",
+    "script": "shut up → 提问 → 捧哏。穿针引线，让有表达欲的前辈说，你问到心窝的问题。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-11",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "身体语言托底",
+    "badge": "身体语言托底",
+    "quote": "挺胸直背、微笑、看对方眼睛。",
+    "how": "别盯嘴/耳；淡淡回应「哦是这样 / 学到了」。每天镜子练微笑对视 30 秒。",
+    "dont": "",
+    "script": "",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "嗨咻",
+        "href": "https://czh55.github.io/audio-workshop/haixiu-social-performance-anxiety-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  },
+  {
+    "id": "hb-12",
+    "module": "scenes",
+    "scene": "small-talk",
+    "group": "social",
+    "title": "服务场景敢说需求",
+    "badge": "服务场景敢说需求",
+    "quote": "按摩不说偏好，只会让自己受罪。",
+    "how": "",
+    "dont": "",
+    "script": "「脖子别按太重／我一般不让按这里。」理发给照片；化妆说清偏好。沉默不是礼貌，是自找罪受。",
+    "purpose": "关系维护",
+    "sources": [
+      {
+        "label": "不开玩笑 · 沟通",
+        "href": "https://czh55.github.io/audio-workshop/jundongkou_communication_ep250-总结.html",
+        "repo": "audio-workshop"
+      }
+    ],
+    "tags": [
+      "表达技巧手册",
+      "small-talk"
+    ]
+  }
+]

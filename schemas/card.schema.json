@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://czh55.github.io/express_system/schemas/card.schema.json",
+  "title": "ExpressCard",
+  "type": "object",
+  "required": ["id", "module", "title", "purpose"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "module": {
+      "type": "string",
+      "enum": ["emotion", "warmup", "scenes", "techniques"]
+    },
+    "scene": {
+      "type": ["string", "null"],
+      "enum": ["small-talk", "workplace", "conflict", "improv", null]
+    },
+    "group": { "type": "string" },
+    "title": { "type": "string" },
+    "badge": { "type": "string" },
+    "quote": { "type": "string" },
+    "how": { "type": "string" },
+    "dont": { "type": "string" },
+    "script": { "type": "string" },
+    "summary": { "type": "string" },
+    "purpose": {
+      "type": "string",
+      "enum": ["信息对齐", "关系维护", "利益推动", "情绪承接", "结构训练", "开口启动"]
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": { "type": "string" },
+          "href": { "type": "string" },
+          "repo": { "type": "string" }
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
