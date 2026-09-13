@@ -43,5 +43,6 @@ node scripts/render-site.mjs
 
 - 仓库：https://github.com/czh55/express_system
 - 站点：https://czh55.github.io/express_system/（Settings → Pages：`main` / `/docs`）
+- 自定义域：http://chenzhiheng.cn/express_system/
 
 每张卡含 `id`、`module`、`purpose`、`sources[]`。详见 `schemas/card.schema.json`。
